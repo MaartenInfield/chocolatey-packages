@@ -3,7 +3,7 @@
   <metadata>
   <id>google-chrome-for-enterprise</id>
   <version>67.0.3396.62</version>
-  <packageSourceUrl>https://github.com/FlorianKirchner/chocolatey-packages/tree/master/static/chrome-for-enterprise</packageSourceUrl>
+  <packageSourceUrl>https://github.com/FlorianKirchner/chocolatey-packages/tree/master/static/google-chrome-for-enterprise</packageSourceUrl>
   <owners>FlorianKirchner</owners>
   <title>Google Chrome for Enterprise</title>
   <authors>FlorianKirchner</authors>
