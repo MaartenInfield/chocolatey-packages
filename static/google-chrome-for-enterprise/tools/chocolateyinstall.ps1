@@ -1,4 +1,4 @@
-﻿
+
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise.msi'
@@ -14,9 +14,9 @@ $packageArgs = @{
 
   softwareName  = 'Google Chrome*'
 
-  checksum      = '04EF86F39B5EBCD7C68B9CC54120339873498F2A72A5874960FCEED472F6F358'
+  checksum      = '8565E6089305C31290A81ECFAB1D86D9877BE1F441A28AB732914D682B423893'
   checksumType  = 'sha256'
-  checksum64    = '21AE5D85F3A4425396445BB541C00D089E5826D3F00A9C6E4D66EDD46DEF8FB7'
+  checksum64    = 'C646EB8BC42A3A9BA879AE91609BFFF557EF711EC1A49BC0A59A434D2843E6A5'
   checksumType64= 'sha256'
 
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
