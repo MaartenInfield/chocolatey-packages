@@ -5,7 +5,7 @@
   <version>67.0.3396.62</version>
   <packageSourceUrl>https://github.com/FlorianKirchner/chocolatey-packages/tree/master/static/chrome-for-enterprise</packageSourceUrl>
   <owners>FlorianKirchner</owners>
-  <title>chrome-for-enterprise (Install)</title>
+  <title>Google Chrome for Enterprise</title>
   <authors>FK1</authors>
   <projectUrl>https://enterprise.google.com/intl/de/chrome/chrome-browser/</projectUrl>
   <iconUrl>https://enterprise.google.com/chrome/images-v2/icons/chrome_logo_enterprise1x.png</iconUrl>
