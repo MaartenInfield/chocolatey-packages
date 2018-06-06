@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-  <id>chrome-for-enterprise</id>
+  <id>google-chrome-for-enterprise</id>
   <version>67.0.3396.62</version>
   <packageSourceUrl>https://github.com/FlorianKirchner/chocolatey-packages/tree/master/static/chrome-for-enterprise</packageSourceUrl>
   <owners>FlorianKirchner</owners>
