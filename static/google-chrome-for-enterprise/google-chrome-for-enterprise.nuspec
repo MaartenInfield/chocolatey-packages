@@ -17,7 +17,7 @@
   <summary>Google Chrome for Enterprise</summary>
   <description>Google Chrome for Enterprise bla</description>
   <dependencies>
-    <dependency id="chocolatey-uninstall.extension" />
+    <dependency id="chocolatey-uninstall.extension" version="1.2.0" />
   </dependencies>
   </metadata>
 	<files>
