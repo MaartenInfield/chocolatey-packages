@@ -14,9 +14,9 @@ $packageArgs = @{
 
   softwareName  = 'Google Chrome*'
 
-  checksum      = '8565E6089305C31290A81ECFAB1D86D9877BE1F441A28AB732914D682B423893'
+  checksum      = 'F0E0664A0BC00AFA4B4FEFF623A0B88AF3D246065034FB3C8282CF78F226E109'
   checksumType  = 'sha256'
-  checksum64    = 'C646EB8BC42A3A9BA879AE91609BFFF557EF711EC1A49BC0A59A434D2843E6A5'
+  checksum64    = '44B856B5C2D3FB16764183944915B90F349E404ED1AC05AFE609C32A8DC59D4E'
   checksumType64= 'sha256'
 
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
