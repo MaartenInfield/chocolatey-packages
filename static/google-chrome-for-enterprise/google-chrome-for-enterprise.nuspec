@@ -2,9 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
   <id>google-chrome-for-enterprise</id>
-  <version>67.0.3396.62</version>
+  <version>67.0.3396.87</version>
   <packageSourceUrl>https://github.com/FlorianKirchner/chocolatey-packages/tree/master/static/google-chrome-for-enterprise</packageSourceUrl>
-  <owners>FlorianKirchner</owners>
+  <owners>Florian Kirchner</owners>
   <title>Google Chrome for Enterprise</title>
   <authors>FlorianKirchner</authors>
   <projectUrl>https://enterprise.google.com/intl/de/chrome/chrome-browser/</projectUrl>
