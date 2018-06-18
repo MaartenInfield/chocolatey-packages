@@ -15,7 +15,7 @@
   <docsUrl>https://goo.gl/2QvOT</docsUrl>
   <tags>chrome-for-enterprise Google Chrome Browser Enterprise</tags>
   <summary>Google Chrome for Enterprise</summary>
-  <description>Google Chrome for Enterprise bla</description>
+  <description>Google Chrome for Enterprise is a fast, simple, and secure web browser, built for the modern web. It can be managed with Windows GPOs.</description>
   <dependencies>
     <dependency id="chocolatey-uninstall.extension" version="1.2.0" />
   </dependencies>
